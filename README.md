@@ -1,5 +1,5 @@
 # MVVMModuleGenerator
-An Xcode template for generating files for MVVM Architecture. Easy to install and best suit for rapid development.
+An Xcode template for generating files for MVVM Architecture. Easy to install and best suit for rapid development. Template genreator create View, ViewModel and Model file for a module say login.
 
 ## HOW TO USE
 Clone code somewhere in your mac system. (XCode must be installed)
